@@ -21,9 +21,10 @@ $ npm install
 # development
 $ npm run start
 ```
-<p>Setup your .env file
-PUT HOSTNAME AS "smtp.office365.com"
-EMAIL_SMTP_PORT AS "587"
-,YOUR EMAIL USERNAME AND YOUR EMAIL PASSWORD</p>
+<p>
+  ### Setup your .env file
+  PUT HOSTNAME AS "smtp.office365.com", 
+  EMAIL_SMTP_PORT AS "587", 
+  YOUR EMAIL USERNAME AND YOUR EMAIL PASSWORD</p>
 
 
