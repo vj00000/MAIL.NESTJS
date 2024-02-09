@@ -3,7 +3,10 @@
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
   <h3>FOLLOWING CODE SEND MAIL USING NODEMAILER IN NESTJS, RUN BELOW COMMAND IN CMD TO SETUP LOCALLY</h3>
 </p>
-
+## Clone
+```bash
+$ git clone 
+```
 ## Installation
 
 ```bash
